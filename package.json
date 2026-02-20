@@ -1,0 +1,5 @@
+{
+  "name": "lfv-backend",
+  "version": "1.0.0",
+  "main": "api/matches.js"
+}
