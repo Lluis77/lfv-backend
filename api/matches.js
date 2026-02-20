@@ -1,4 +1,4 @@
-onst FOOTBALL_DATA_API_KEY = 'c47c59dc3cee4ce1b8373b8fb4edfec0'; // 👈 CANVIA AQUÍ
+const FOOTBALL_DATA_API_KEY = 'c47c59dc3cee4ce1b8373b8fb4edfec0'; // 👈 CANVIA AQUÍ
 
 const leagueMapping = {
   'La Liga': { code: 'PD', country: '🇪🇸' },
